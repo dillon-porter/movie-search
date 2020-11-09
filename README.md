@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Created a React Movie Search App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was taught on Scrimba
+
+We fetched an API from Moviedb.org
+
+Used a React Hook, UseState
+
+Developed a form to where users type in the name of the movie to receive information about it.
+
+Used JavaScripts .map() method to filter through different movies and retrieving the movie poster, ratings and description. 
+
+
 
 ## Available Scripts
 

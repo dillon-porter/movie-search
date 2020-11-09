@@ -1,5 +1,7 @@
 # Created a React Movie Search App
 
+Demo: https://dillon-porter.github.io/movie-search/
+
 This project was taught on Scrimba
 
 We fetched an API from Moviedb.org

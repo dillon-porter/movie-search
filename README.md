@@ -1,4 +1,4 @@
-##React Movie Search App
+## React.js ~ Movie Search App
 
 Demo: https://dillon-porter.github.io/movie-search/
 
